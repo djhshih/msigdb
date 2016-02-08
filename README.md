@@ -3,8 +3,9 @@
 Molecular signature database obtained from the original [MSigDB][1], augmented
 with some project-specific gene sets.
 
-_Before_ using this dataset, please *register* at [MSigDB][1] to help the
-original authors track usage for reporting to their funding agencies.
+*Before* using this dataset, please **register** at [MSigDB][1] to help the
+original authors track usage for reporting to their funding agencies. If you do
+not do this, this resource may become unavailable.
 
 
 ## Citation
