@@ -10,7 +10,7 @@ original authors track usage for reporting to their funding agencies.
 ## Citation
 
 To cite your use of the Molecular Signatures Database (MSigDB), please
-reference:
+reference
 
 ```
 @article{subramanian05,
