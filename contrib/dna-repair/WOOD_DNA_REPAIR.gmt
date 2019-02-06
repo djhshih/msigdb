@@ -16,5 +16,5 @@ WOOD_DNA_REPAIR_NUCLEASES	Editing and processing nucleases involved in DNA repai
 WOOD_DNA_REPAIR_UBIQUITINATION	Ubiquitination and modification involved in DNA repair	UBE2A	UBE2B	RAD18	SHPRH	HLTF	RNF168	SPRTN	RNF8	RNF4	UBE2V2	UBE2N
 WOOD_DNA_REPAIR_CHROMATIN	Chromatin structure and modification involved in DNA repair	H2AFX	CHAF1A	SETMAR
 WOOD_DNA_REPAIR_OTHER_DISEASES	Genes defective in diseases associated with sensitivity to DNA damaging agents	BLM	WRN	RECQL4	ATM	TTDN1
-WOOD_DNA_REPAIR_OTHER	Other identified genes with known or suspected DNA repair function	DCLRE1A	DCLRE1B	RPA4	PRPF19	RECQL	RECQL5	HELQ	RDM1	OBFC2B
+WOOD_DNA_REPAIR_OTHER	Genes defectived in diseases associated with sensitivity to DNA damaging agents and other identified genes with known or suspected DNA repair function	BLM	WRN	RECQL4	ATM	TTDN1	DCLRE1A	DCLRE1B	RPA4	PRPF19	RECQL	RECQL5	HELQ	RDM1	OBFC2B
 WOOD_DNA_DAMAGE_RESPONSE	Conserved DNA damage response genes (added: ATM, PRKDC)	ATM	ATR	PRKDC	ATRIP	MDC1	RAD1	RAD9A	HUS1	RAD17	CHEK1	CHEK2	TP53	TP53BP1	RIF1	TOPBP1	CLK2	PER1
